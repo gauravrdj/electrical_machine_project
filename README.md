@@ -1,0 +1,1 @@
+# electrical_machine_project
